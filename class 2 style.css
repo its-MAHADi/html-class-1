@@ -1,0 +1,14 @@
+body {
+    background-color: darkturquoise;
+}
+
+.p1 {
+    border: 20px black;
+}
+
+body {
+     padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+    background-color: cyan
+}
